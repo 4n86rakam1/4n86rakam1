@@ -4,8 +4,8 @@
 
 ## Accounts
 
-![Hack The Box](https://www.hackthebox.com/badge/image/1048160)
-<img src="https://tryhackme-badges.s3.amazonaws.com/4n86rakam1.png" alt="TryHackMe">
+[![Hack The Box](https://www.hackthebox.com/badge/image/1048160)](https://app.hackthebox.com/profile/1048160)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4n86rakam1.png)](https://tryhackme.com/p/4n86rakam1)
 [![CTFlearn](https://img.shields.io/badge/CTFLearn-131316?style=for-the-badge)](https://ctflearn.com/user/4n86rakam1)
 [![247CTF](https://img.shields.io/badge/247CTF-e87638?style=for-the-badge)](https://247ctf.com/progress/4n86rakam1)
 
