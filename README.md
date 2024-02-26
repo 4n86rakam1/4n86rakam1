@@ -13,8 +13,11 @@
 
 Participation as a solo player [4n86rakam1](https://ctftime.org/user/108441):
 
+<details><summary>Click here</summary>
+
 | CTF                                                                                                            | Rank                                                                                                | My Writeup                                                                     | Remark                                              |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
+| [防衛省サイバーコンテスト 2024](https://vlc-cybercontest.com/)                                                 | 13/314                                                                                              |                                                                                |                                                     |
 | [UofTCTF 2024](https://ctftime.org/event/2219)                                                                 | 45/1225                                                                                             | [GitHub](https://github.com/4n86rakam1/writeup/tree/main/UofTCTF_2024)         |                                                     |
 | [IrisCTF 2024](https://ctftime.org/event/2085)                                                                 | 67/1207                                                                                             | [GitHub](https://github.com/4n86rakam1/writeup/tree/main/IrisCTF_2024)         |                                                     |
 | [Wargames.MY 2023 CTF](https://ctftime.org/event/2203)                                                         | 6/41                                                                                                | [GitHub](https://github.com/4n86rakam1/writeup/tree/main/Wargames.MY_2023_CTF) | First Blood: myCloud                                |
@@ -38,3 +41,5 @@ Participation as a solo player [4n86rakam1](https://ctftime.org/user/108441):
 | [Winja CTF \| c0c0n 2021](https://ctftime.org/event/1477)                                                      | 109/171                                                                                             |                                                                                |                                                     |
 | [DownUnderCTF 2021 (Online)](https://ctftime.org/event/1312)                                                   | 591/1594                                                                                            |                                                                                |                                                     |
 | [DEF CON CTF Qualifier 2021](https://ctftime.org/event/1254)                                                   | 140/433                                                                                             |                                                                                |                                                     |
+
+</details>
